@@ -21,13 +21,15 @@ This project demonstrates a complete setup of **Splunk Enterprise** and **Splunk
 - ### Register or log in to [splunk.com](https://splunk.com)
 - ### Download the `.deb` files for** **Splunk Enterprise** and **Splunk Universal Forwarder**
 
-![image](https://github.com/user-attachments/assets/436fa64a-d5d4-4bba-b98c-4bc72c4fa29a)
-![image](https://github.com/user-attachments/assets/e3246ae3-cd6a-41b3-8c0c-1cf4147c0307)
-![image](https://github.com/user-attachments/assets/bc7030c2-a820-478a-b178-829b3a3b768a)
-![image](https://github.com/user-attachments/assets/57f05e7e-93f6-4f12-accd-4ac5fb936278)
-![image](https://github.com/user-attachments/assets/2be555fe-ebe1-464f-8b7c-36d17ef49bef)
+![Ubuntu-Server-2025-03-29-10-24-53](https://github.com/user-attachments/assets/47b68ba2-95f6-44cf-9826-6dcbb897203d)
+![Ubuntu-Server-2025-03-29-10-25-56](https://github.com/user-attachments/assets/752b84a5-66fa-4f18-b6c3-5be2b6baf062)
+![Ubuntu-Server-2025-03-29-10-56-46](https://github.com/user-attachments/assets/d6010752-6a26-4a5f-9e77-6251f998fef1)
+![Ubuntu-Server-2025-03-29-10-57-24](https://github.com/user-attachments/assets/6231c171-f8fc-43b9-86ae-281325a684d1)
+![Ubuntu-Server-2025-03-29-10-58-07](https://github.com/user-attachments/assets/ed390dd8-5e3d-4621-8b2d-c39ac8e8ee39)
+
 
 - ### Use Python3 HTTP server to transfer the forwarder package: python3 -m http.server
+![Ubuntu-Server-2025-03-29-11-03-16](https://github.com/user-attachments/assets/ef0d5adb-f754-4ba1-86a9-c0b59c70c648)
 
 - ### Open Firefox in the Ubuntu ISO machine, enter the IP address of the server (with port 8000) and download the Splunk Universal Forwarder.
 
